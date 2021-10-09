@@ -1,2 +1,2 @@
-# C-_Training
+# C++ Training
 Codes for C++ training
